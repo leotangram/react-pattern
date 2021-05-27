@@ -8,8 +8,7 @@ export const WelcomePage = () => (
     </Typography>
 
     <Typography variant="h4" component="h2">
-      Esta aplicación forma parte del curso Guía definitiva: Aprende los 9
-      Patrones Avanzados en ReactJS
+      Estos son los 9 patrones más importantes de React
     </Typography>
   </>
 );
